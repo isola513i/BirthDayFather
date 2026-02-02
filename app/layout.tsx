@@ -20,9 +20,9 @@ export const metadata: Metadata = {
     description: "ของขวัญวันเกิดพ่อนุ้ย สุดยอดเลยนะ",
     images: [
       {
-        url: "/photos/photo4.jpg",
-        width: 1200,
-        height: 630,
+        url: "/og-image.jpg",
+        width: 800,
+        height: 1066,
         alt: "Birthday Surprise for Dad",
       },
     ],
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Happy Birthday พ่อนุ้ย",
     description: "ของขวัญวันเกิดพ่อนุ้ย สุดยอดเลยนะ",
-    images: ["/photos/photo4.jpg"],
+    images: ["/og-image.jpg"],
   },
 };
 
