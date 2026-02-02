@@ -9,6 +9,7 @@ const mali = Mali({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://happy-birth-day-por-nui.vercel.app"),
   title: "Happy Birthday พ่อนุ้ย",
   description: "ของขวัญวันเกิดพ่อนุ้ย สุดยอดเลยนะ",
   icons: {
